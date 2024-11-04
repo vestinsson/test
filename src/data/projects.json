@@ -1,0 +1,36 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Project 1",
+        "description": "the project's brief description",
+        "image": "../img/karl.jpg",
+        "technologies": ["React", "CSS", "JavaScript"],
+        "link": "https://project1.com"
+      },
+      {
+        "id": 2,
+        "title": "Project 2",
+        "description": "the project's brief description",
+        "image": "../img/karl.jpg",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "link": "https://project2.com"
+      },
+      {
+        "id": 3,
+        "title": "Project 3",
+        "description": "the project's brief description",
+        "image": "../img/karl.jpg",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "link": "https://project2.com"
+      },
+      {
+        "id": 4,
+        "title": "Project 4",
+        "description": "the project's brief description",
+        "image": "../img/karl.jpg",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "link": "https://project2.com"
+      }
+    ]
+  }
